@@ -1,8 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "2.Sorting Techniques/Lecture 1",
+        "1.Learn the basic/Lecture 6(Hashing)",
         "1.Learn the basic/Lecture 5(Basic Recursion)",
         "1.Learn the basic/Lecture 4",
         "1.Learn the basic/Lecture 2",
-        "1.Learn the basic/Lecture 6(Hashing)"
+        "2.Sorting Techniques/Lecture 2"
     ]
 }
