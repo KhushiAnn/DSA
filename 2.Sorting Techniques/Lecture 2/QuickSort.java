@@ -1,6 +1,7 @@
-class Solution {
-    // Function to perform quicksort
-    public void quickSort(int[] arr, int low, int high) {
+public class QuickSort {
+
+     // Function to perform quicksort
+    public static void quickSort(int[] arr, int low, int high) {
         // Base case
         if (low < high) {
             // Find pivot index
@@ -15,7 +16,7 @@ class Solution {
     }
 
     // Function to partition array
-    private int partition(int[] arr, int low, int high) {
+    private static int partition(int[] arr, int low, int high) {
         // Choose last element as pivot
         int pivot = arr[high];
 
@@ -42,20 +43,22 @@ class Solution {
         // Return pivot index
         return i + 1;
     }
-}
-
-public class QuickSort {
     public static void main(String[] args) {
         // Input array
         int[] arr = {10, 7, 8, 9, 1, 5};
 
-        // Create object
-        Solution sol = new Solution();
+        System.out.println("Array before Quick Sort ");
+
+        for(int n : arr){
+            System.out.print(n + " ");
+        }
+        System.out.println();
 
         // Call quickSort
-        sol.quickSort(arr, 0, arr.length - 1);
+        quickSort(arr, 0, arr.length - 1);
 
         // Print sorted array
+        System.out.println("Array after Quick Sort");
         for (int num : arr)
             System.out.print(num + " ");
     }
