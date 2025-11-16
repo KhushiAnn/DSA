@@ -38,5 +38,5 @@ public class FrequencyElement {
 
         System.out.println("The highest frequency element is: " + maxEle);
         System.out.println("The lowest frequency element is: " + minEle);
-    }
+    }    
 }
