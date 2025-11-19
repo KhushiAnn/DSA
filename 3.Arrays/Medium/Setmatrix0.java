@@ -3,9 +3,7 @@ import java.util.Arrays;
 
 public class Setmatrix0 {
     static ArrayList<ArrayList<Integer>> zeroMatrix(ArrayList<ArrayList<Integer>> matrix, int n, int m) {
-        // int[] row = new int[n]; --> matrix[..][0]
-        // int[] col = new int[m]; --> matrix[0][..]
-
+        
         int col0 = 1;
         // step 1: Traverse the matrix and
         // mark 1st row & col accordingly:
