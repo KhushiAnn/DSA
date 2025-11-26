@@ -25,4 +25,5 @@ public class CountSubarray {
         int cnt = findAllSubarraysWithGivenSum(arr, k);
         System.out.println("The number of subarrays is: " + cnt);
     }
+    
 }
