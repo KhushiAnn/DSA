@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "3.Arrays/Medium",
+        "3.Arrays/Hard",
         "3.Arrays/Easy",
         "2.Sorting Techniques/Lecture 2",
         "2.Sorting Techniques/Lecture 1",
@@ -8,6 +9,6 @@
         "1.Learn the basic/Lecture 5(Basic Recursion)",
         "1.Learn the basic/Lecture 4",
         "1.Learn the basic/Lecture 2",
-        "3.Arrays/Hard"
+        "3.Arrays/Leetcode"
     ]
 }
