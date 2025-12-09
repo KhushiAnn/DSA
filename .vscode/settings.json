@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "4.Binary Search/Lecture 2",
         "4.Binary Search/Lecture 1",
         "3.Arrays/Medium",
         "3.Arrays/Leetcode",
@@ -11,6 +12,6 @@
         "1.Learn the basic/Lecture 5(Basic Recursion)",
         "1.Learn the basic/Lecture 4",
         "1.Learn the basic/Lecture 2",
-        "4.Binary Search/Lecture 2"
+        "4.Binary Search/Lecture 3"
     ]
 }
