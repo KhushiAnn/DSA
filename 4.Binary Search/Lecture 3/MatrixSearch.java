@@ -1,5 +1,5 @@
 public class MatrixSearch {
-    private int[][] matrix; // Store matrix
+    final private int[][] matrix; // Store matrix
 
     // Constructor to initialize the matrix
     public MatrixSearch(int[][] matrix) {

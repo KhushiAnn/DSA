@@ -18,7 +18,7 @@ public class PeakElement2DMatrix {
       // Function to find a peak element in the 2D matrix 
       // using binary search
       public static int[] findPeakGrid(int[][] arr) {
-          int n = arr.length;
+          
           int m = arr[0].length;
   
           int low = 0;
