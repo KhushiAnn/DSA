@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "6.LinkedList/1D LinkedList",
+        "5.Strings/Lecture 2",
         "5.Strings/Lecture 1",
         "4.Binary Search/Lecture 3",
         "4.Binary Search/Lecture 2",
@@ -14,6 +16,6 @@
         "1.Learn the basic/Lecture 5(Basic Recursion)",
         "1.Learn the basic/Lecture 4",
         "1.Learn the basic/Lecture 2",
-        "5.Strings/Lecture 2"
+        "6.LinkedList/Medium Level LL problem"
     ]
 }
